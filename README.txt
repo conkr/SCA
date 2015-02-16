@@ -1,5 +1,4 @@
-Spa is a python package for analyzing data from the coherent scattering beamline
-12.0.2 at the Advanced Light Source.  The module requires numpy, scipy modules.
+SCA is a python package for analyzing data from the coherent scattering and imaging experiments.  The module requires numpy, scipy modules.
 
 Features of the library:
     * Analyze X-ray photon correlation spectroscopy datasets
@@ -10,7 +9,7 @@ Features of the library:
     * Rotational symmetry analysis
     * Q-dependent (rotational) and spatial memory analysis
     * Registering and merging of data for imaging
-    * Simulations of single-photon XPCS data, domain generation, and random walks
+    * Simulations of XPCS data, domain generation,and coherent magnetic scattering. 
     * Endstation-specific items such as Q-calculations and conversion from
         detected events to photons
 
