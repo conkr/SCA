@@ -20,6 +20,6 @@ setup(
     test_suite='nose.collector',
     tests_require=['nose'],
     description = "Python package for scattering and imaging data analysis",
- #   long_description=read('README.txt'),
+ #  long_description=read('README.txt'),
 )
   
