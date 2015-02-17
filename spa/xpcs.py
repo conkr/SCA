@@ -1,4 +1,4 @@
-"""Library for XPCS and photon correlation experiments.  The library calculates
+"""Library for XPCS and photon correlation experiments. The library calculates
 the photon correlation function for a set of frames represented as a 3d numpy
 array.  The library will also calculate the correlation function for a single-
 photon timestamping detector.
