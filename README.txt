@@ -1,4 +1,4 @@
-SCA is a python package for analyzing data from the coherent scattering and imaging experiments.  The module requires numpy, scipy modules.
+SCA is a python package for analyzing data from the coherent scattering and imaging experiments.  The module requires numpy and scipy modules.
 
 Features of the library:
     * Analyze X-ray photon correlation spectroscopy datasets
